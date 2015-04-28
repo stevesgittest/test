@@ -6,3 +6,4 @@ adding another line
 I just added this in the branch
 >>>>>>> MyNewBranch
 change 6
+chage 7
