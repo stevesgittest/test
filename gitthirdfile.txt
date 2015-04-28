@@ -1,3 +1,8 @@
 ﻿THIS IS A THIRD FILE
 Just added a new line
+<<<<<<< HEAD
 adding another line
+=======
+I just added this in the branch
+>>>>>>> MyNewBranch
+change 6
