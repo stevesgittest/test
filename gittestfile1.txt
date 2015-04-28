@@ -1,1 +1,2 @@
 ﻿This is line one of git test
+i JUST ADD ANOTHER LINE
